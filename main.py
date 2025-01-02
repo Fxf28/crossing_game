@@ -1,8 +1,6 @@
 import time
 from turtle import Screen
-
-import car_manager
-from player import Player, FINISH_LINE_Y
+from player import Player
 from car_manager import CarManager
 from scoreboard import Scoreboard
 
